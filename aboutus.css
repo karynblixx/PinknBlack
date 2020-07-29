@@ -1,0 +1,76 @@
+body{background-image:
+url("data2.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h{color:white;
+font-size:40px;
+padding-left:50px;
+font-family: "bodoni MT", "Arial Verdana", "Times New Roman", serif;
+}
+
+p{color:white;
+font-size:60px;
+font-family: "bodoni MT", "Arial Verdana", "Times New Roman", serif;
+padding-top:30px;
+}
+
+p2{
+	padding-top:80px;
+}
+/* mouse over link */
+a:link{
+	text-decoration: none;
+
+}
+
+
+.container{
+	margin:4px;
+	padding-left:30px;
+}
+
+.container{
+	text-align:left;
+	
+}
+
+.btn{
+	border:10px solid white;
+	border-radius:5px;
+background-color:white;
+	font-size:20px;
+	font-family:arial;
+	crusor:pointer;
+	margin:10px;
+	transition: 0.8s;
+	font-family: "bodoni MT", "Arial Verdana", "Times New Roman", serif;
+	
+}
+
+.btn1:hover{
+	color:blue;
+}
+	
+.btn2:hover{
+	color:blue;
+}
+
+.btn3:hover{
+	color:blue;
+}
+
+.btn4:hover{
+	color:blue;
+}
+
+img{
+	margin:80px;
+	height:140px;
+	width:220px;
+	border:solid 2px white;
+	border-radius:120px;
+
+	
+}
